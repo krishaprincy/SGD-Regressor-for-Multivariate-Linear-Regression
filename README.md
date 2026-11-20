@@ -109,6 +109,7 @@ for i in range(5):
 ```
 
 ## Output:
+
 <img width="813" height="861" alt="image" src="https://github.com/user-attachments/assets/1d2ef6fa-6783-469d-b84a-b115456f6fbf" />
 
 
